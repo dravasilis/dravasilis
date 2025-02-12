@@ -3,7 +3,7 @@
 
 # 🌟 About Me
 ### 🕸 Frontend Enthusiast – I love building elegant & user-friendly interfaces.
-#### ✨ Pixel-perfect designs, smooth animations & great UX are my thing!
+### ✨ Pixel-perfect designs, smooth animations & great UX are my thing!
 
 ### 🛠️ Tech Stack:
   <p style="border-radius: 20px; overflow: hidden;">
