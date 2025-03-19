@@ -1,7 +1,7 @@
-# 👋 Welcome to my GitHub Profile!
+#  Welcome to my GitHub Profile!
 ###  Hi, I'm Vasilis 👨‍💻,  a passionate Frontend Developer who loves crafting beautiful and interactive web experiences.
 
-# 🌟 About Me
+#  About Me
 ### 🕸 Frontend Enthusiast – I love building elegant & user-friendly interfaces.
 ### ✨ Pixel-perfect designs, smooth animations & great UX are my thing!
 
